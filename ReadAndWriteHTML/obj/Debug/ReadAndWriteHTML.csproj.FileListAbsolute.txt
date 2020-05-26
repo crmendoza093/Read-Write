@@ -1,0 +1,9 @@
+C:\repos\ReadAndWriteHTML\ReadAndWriteHTML\bin\Debug\ReadAndWriteHTML.exe.config
+C:\repos\ReadAndWriteHTML\ReadAndWriteHTML\obj\Debug\ReadAndWriteHTML.csprojResolveAssemblyReference.cache
+C:\repos\ReadAndWriteHTML\ReadAndWriteHTML\bin\Debug\ReadAndWriteHTML.exe
+C:\repos\ReadAndWriteHTML\ReadAndWriteHTML\bin\Debug\ReadAndWriteHTML.pdb
+C:\repos\ReadAndWriteHTML\ReadAndWriteHTML\obj\Debug\ReadAndWriteHTML.exe
+C:\repos\ReadAndWriteHTML\ReadAndWriteHTML\obj\Debug\ReadAndWriteHTML.pdb
+C:\repos\ReadAndWriteHTML\ReadAndWriteHTML\bin\Debug\HtmlAgilityPack.dll
+C:\repos\ReadAndWriteHTML\ReadAndWriteHTML\bin\Debug\HtmlAgilityPack.pdb
+C:\repos\ReadAndWriteHTML\ReadAndWriteHTML\bin\Debug\HtmlAgilityPack.xml
